@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App 2.4</string>
+    <string name="button_name">Solve</string>
+    <string name="x1_name">x1</string>
+    <string name="x2_name">x2</string>
+    <string name="D_name">D</string>
+</resources>
